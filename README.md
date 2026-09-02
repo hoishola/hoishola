@@ -12,7 +12,9 @@ I'm a web developer in progress,turning tutorials into real, working projects.
 
 ## 🛠️ Skills
 **Languages:** JavaScript, HTML, CSS
-**Frameworks/Libraries:** React
+
+**Frameworks:** React
+
 **Tools:** Vite, Git, GitHub, Vercel, CSS Modules
 
 ## 🎯 Interests
