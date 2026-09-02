@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Habeeb
 
-<!--
-**hoishola/hoishola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer in progress,turning tutorials into real, working projects.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- Building toward frontend/web development, with a longer term interest in AI application engineering
+- Currently learning: TypeScript, React Router
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **StyleMate** — a wardrobe/outfit organizer with CRUD, dark mode, and outfit builder logic — [live demo](https://stylemate-topaz.vercel.app)
+- **Recipe Finder** — search and browse recipes via TheMealDB API
+
+## 🛠️ Skills
+**Languages:** JavaScript, HTML, CSS
+**Tools:** React, Vite, Git, GitHub, Vercel, CSS Modules
+
+## 🎯 Interests
+- Frontend/web development
+- AI application engineering
