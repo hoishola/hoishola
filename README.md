@@ -12,7 +12,8 @@ I'm a web developer in progress,turning tutorials into real, working projects.
 
 ## 🛠️ Skills
 **Languages:** JavaScript, HTML, CSS
-**Tools:** React, Vite, Git, GitHub, Vercel, CSS Modules
+**Frameworks/Libraries:** React
+**Tools:** Vite, Git, GitHub, Vercel, CSS Modules
 
 ## 🎯 Interests
 - Frontend/web development
