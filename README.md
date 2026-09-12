@@ -1,6 +1,6 @@
 👋 Hi, I'm Habeeb
 
-I'm a web developer in progress,turning tutorials into real, working projects.
+I’m a web developer who enjoys building clean, responsive, and user-friendly experiences for the web.
 
 ## 🧠 About Me
 - Building toward frontend/web development, with a longer term interest in AI application engineering
